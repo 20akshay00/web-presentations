@@ -10,4 +10,4 @@
 - [Exploring the Bose Hubbard Model](./msthesis/ppt1.html)
 - [Problem with MFT in eBHM + Moving beyond MFT](./msthesis/ppt2.html)
 - [Mid-thesis Presentation (PDF)](./msthesis/PRJ501.pdf)
-- [Thesis poster](./msthesis/poster.svg)
+- [Thesis poster](./msthesis/poster.png)
